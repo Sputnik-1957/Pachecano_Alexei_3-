@@ -1,0 +1,13 @@
+[Alexei_Pachecano@pepper cyberknight]$ history
+    1  clear
+    2  echo "My name is Alexei Pachecano 3 and I am $USER"
+    3  ssh-keygen
+    4  su
+    5  sudo yum update
+    6  ssh-keygen
+    7  ssh-copy-id Alexei_Pachecano@pepper.saisd.net
+    8  sudo apt-get install xclip
+    9  sudo yum  install xclip
+   10  xclip -sel clip < ~/.ssh/id_rsa.pub
+   11  history
+[Alexei_Pachecano@pepper cyberknight]$
