@@ -1,0 +1,57 @@
+29  echo "# Pachecano_3_PIOT" >> README.md
+   30  git init
+   31  git add README.md
+   32  git commit -m "Alexei's first commit"
+   33  git remote add origin https://github.com/Sputnik-1957/Pachecano_3_PIOT.git
+   34  git push -u origin master
+   35  yes
+   36  echo "# Pachecano_3_PIOT" >> README.md
+   37  git init
+   38  git add README.md
+   39  git commit -m "Alexei's first commit"
+   40  git remote add origin https://github.com/Sputnik-1957/Pachecano_3_PIOT.git
+   41  git push -u origin master
+   42  git remote add origin git@github.com:Sputnik-1957/Pachecano_3_PIOT.git
+   43  git push -u origin master
+   44  cd
+   45  cat < myfirstscript
+   46  touch myfirstscript
+   47  cat < myfirstscript
+   48  cat 0< myfirstscript
+   49  touch file
+   50  cat file
+   51  ls -al myfirstscript > longlisting
+   52  cat longlisting
+   53  cat > test
+   54  touch test
+   55  cat > test
+   56  cat test
+   57  ls -al
+   58  cat newfile
+   59  touch new file
+   60  cat newfile
+   61  rm new file
+   62  touc newfile
+   63  touch newfile
+   64  cat newfile
+   65  cat < myfirstscript > mynewscript
+   66  e
+   67  cp myfirstscript mynewscript
+   68  ls -al my firstscript >> longlisting
+   69  find / -name "*" -print
+   70  find / -name "*" -print 2> /dev/null
+   71  ls -al 2> meyerror
+   72  ls -al 2>> meyerror
+   73  find / -name "*" -print 2> /dev/null > MyValidOutput
+   74  find / -name "*" -print >MyValidOutput 2>/dev/null
+   75  find / -name "*" -print >> output 2>> /dev/null
+   76  find / -name "*" -print 2> samefile 1>&#38;2
+   77  find / -name "*" -print 1> file 2>&#38;1
+   78  find / -name "*" -print 1>> file 2>>&#38;1
+   79  ls -la | less
+   80  ls -l | grep myfirstfile | less
+   81  who | grep <Alexei_Pachecano>
+   82  who | grep Alexei_Pachecano
+   83  who | grep pts
+   84  who | grep pts > outfile
+   85  history
